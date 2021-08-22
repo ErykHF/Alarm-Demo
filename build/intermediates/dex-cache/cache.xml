@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="449cd6c5ef19a562986a41173c77636dc546859c">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_11a2a24b754b9602113569bb7474f057c8b3383a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_306a75ba5812caa60ced530850532aa127553f04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_69f4e4ead6d84a9a16769935dd7934263e87b880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_b89fa591f852d9756258c3f79ee06b13310fb769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_81270e0341c43d92f3f9341909de13ea0b44087e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c21af4f570bdc8a9f8a39ecc5b9f7c014491705">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1beef32d13fe25d9c048d246a302ec6ab9e9807d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_83f0f7422846b8660150b04d27cbe1a34282de68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6a8244a1883d82bac69d40094b3ff61800be297d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_af4b809527923e187bb82c66f5ed0bc7e1e8fde7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_749b4bd36fb44ef682cc5221e3cd55df285fd6b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_84d050fe955185e72585438e2e699eb59b14bbc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_165a5c6bb7081c9fa79507e18ca4979187100abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_9c8e61839c0a558c2dd7e68329f6d5a9223a8934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fb03cb9ff211894f21ef6b9ea338d23fc5a738b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_6021b4d913477360b59337ac8ba99723888e97e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd48233057d91bc3a38f7fda8989b1d7e301516b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eryk\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Eryk\AndroidStudioProjects\AlarmDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_713a1195395a75d5ae32ff102882d39beb2073a7\classes.dex" />
+    </item>
+
+</items>
